@@ -1,0 +1,15 @@
+GEN1,Axeman,40,General
+HEA1,Arlong,38,Heart
+PLA1,golden armer,30,plastic
+LUN1,snowman,50,lung
+LUN2,crocodile,50,lung
+GEN1,kid,33,general
+LUN1,Doflamingo,45,lung
+PLA1,Gecco Moria,50,plasatic
+HEA1,Boa hancock,22,heart
+GEN1,Mihawk,33,general
+TOO1,Black Beard,55,too b
+OVE1,Kaido,56,overpowered
+OVE1,Big Mom,60,overtummy
+PIL1,Akainu,45,piles
+LAT1,Garp,61,late optimization
